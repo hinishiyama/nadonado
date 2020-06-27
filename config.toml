@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://hinishiyama.github.io/"
 publishDir = "docs"
 languageCode = "en-us"
 title = "nadonado"
